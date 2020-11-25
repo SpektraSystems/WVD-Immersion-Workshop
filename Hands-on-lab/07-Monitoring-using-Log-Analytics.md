@@ -23,7 +23,7 @@ Windows Virtual Desktop uses Azure Monitor for monitoring and alerts like many o
   - Resource group: *Select **WVD-RG** from the drop down.*
   - Name: *Go to Lab Environment tab, copy the* **Log Analytics Workspace Name** *and paste it here in Name box.*
   
-   ![ws name.](media/up12.png)
+   ![ws name.](media/v25.png)
 
   - Region: **East US**, *basically this should be same as the region of your resource group.*
   - Click on **Review + Create**
