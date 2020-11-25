@@ -22,7 +22,7 @@ In the following task, we will be creating a storage account with a file share w
    
    - Storage account name: *Go to Lab Environment tab, copy the* **Storage Account Name** *and paste it here in Storage account name box.*   
    
-   ![ws name.](media/up1.png)
+   ![ws name.](media/v24.png)
    
    - Location: **East US**, *this should be same as the location of your resource group*.  
    
